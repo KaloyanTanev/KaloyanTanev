@@ -1,6 +1,8 @@
-### Hi there, Kalo here 👋
+### Hi there, Kalo here - blockchain, fintech and cryptography enthusiast.
 
- <br>
+[![Linkedin Badge](https://img.shields.io/badge/-ktanev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/k-tanev)](https://www.linkedin.com/in/k-tanev)
+
+<br>
 
 <p float='left'>
 <img src='https://github.com/KaloyanTanev/KaloyanTanev/blob/master/resources/elixir.png'  width='60'/>
