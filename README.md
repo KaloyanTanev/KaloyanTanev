@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, Kalo here 👋
 
-<!--
-**KaloyanTanev/KaloyanTanev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <br>
 
-Here are some ideas to get you started:
+<img src='https://github.com/KaloyanTanev/KaloyanTanev/blob/master/resources/elixir.png'  width='30'/>
+<img src='https://github.com/KaloyanTanev/KaloyanTanev/blob/master/resources/phoenix.png' width='30'/>
+<img src='https://github.com/KaloyanTanev/KaloyanTanev/blob/master/resources/go.png' width='30'/>
+<img src='https://github.com/KaloyanTanev/KaloyanTanev/blob/master/resources/python.png' width='30'/>
+<img src='https://github.com/KaloyanTanev/KaloyanTanev/blob/master/resources/rust.png' width='30'/>
+<img src='https://github.com/KaloyanTanev/KaloyanTanev/blob/master/resources/java.png' width='30'/>
+<img src='https://github.com/KaloyanTanev/KaloyanTanev/blob/master/resources/docker.png' width='30'/>
+<img src='https://github.com/KaloyanTanev/KaloyanTanev/blob/master/resources/travis.png' width='30'/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+![Haany's github stats](https://github-readme-stats.vercel.app/api?username=KaloyanTanev&show_icons=true&hide=[%22issues%22])
