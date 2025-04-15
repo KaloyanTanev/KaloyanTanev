@@ -13,4 +13,4 @@
 
 <br>
 
-![Haany's github stats](https://github-readme-stats.vercel.app/api?username=KaloyanTanev&show_icons=true&hide=[%22issues%22])
+![Kalo's github stats](https://github-readme-stats.vercel.app/api?username=KaloyanTanev&show_icons=true&theme=dark)
