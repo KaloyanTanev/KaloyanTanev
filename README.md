@@ -1,4 +1,4 @@
-### Hi there, Kalo here - blockchain, fintech and cryptography enthusiast.
+### Hi there, Kalo here - distributed systems and cryptography enthusiast.
 
 [![Linkedin Badge](https://img.shields.io/badge/-ktanev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/k-tanev)](https://www.linkedin.com/in/k-tanev)
 
